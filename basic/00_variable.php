@@ -5,7 +5,7 @@
 $name = "Shubham";
 // Variables are case sensitive
 $namE = "Capital wala Shubham";
-$income = 200.8;
+$income = 2000.8;
 
 echo "This guy is $name and his income is Rs. $income<br>";
 
